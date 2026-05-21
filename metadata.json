@@ -1,0 +1,6 @@
+{
+  "name": "Product Designer Portfolio",
+  "description": "A premium, highly polished interactive portfolio for a product designer featuring beautiful micro-interactions, project case studies, and a design process playground.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
